@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.8</title>
+            <pubDate>Sat, 06 Jun 2026 14:23:42 +0000</pubDate>
+            <sparkle:version>0.1.8</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Fake notch silhouette during onboarding for non-notched Macs]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.8/iLand-0.1.8.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="cfZ5h3GtcBU3sOSmaZKzPpU5As+42WORTwLiqwj/EzMJ2v2GRwSyFGCh0zTpUT/8754dH0dZwjivcguRqwLZDA==" length="14415031" />
+        </item>
+        <item>
             <title>Version 0.1.7</title>
             <pubDate>Sat, 06 Jun 2026 14:18:39 +0000</pubDate>
             <sparkle:version>0.1.7</sparkle:version>

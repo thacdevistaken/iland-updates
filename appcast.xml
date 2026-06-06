@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>iLand</title>
+        <link>https://github.com/thacdevistaken/iland-updates/releases/download</link>
+        <description>Latest iLand releases</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1.0</title>
+            <pubDate>Sat, 06 Jun 2026 11:24:53 +0000</pubDate>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[First release]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.0/iLand-0.1.0.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="N3JIOVxDk53NdBjdIfISM8jLqjJYkI1ynbc7zX7oKDwWEbJliLsssHzoAokK2UaMytQMg2f0OYW8DP7oepn9BA==" length="14444753" />
+        </item>
+    </channel>
+</rss>

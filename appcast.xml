@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.9</title>
+            <pubDate>Tue, 09 Jun 2026 13:17:16 +0000</pubDate>
+            <sparkle:version>0.1.9</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Removed Focus Modes widget (Shortcuts integration not ready yet)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.9/iLand-0.1.9.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="hYQVveAHlxAGRN4wY3Nmj3+VfXZX9hk61OlsFsv8Vixs/TAa0vatuFD3tI5Z/oSQ7S2wUi+H1OkoxlW6yEroCA==" length="14434354" />
+        </item>
+        <item>
             <title>Version 0.1.8</title>
             <pubDate>Sat, 06 Jun 2026 14:23:42 +0000</pubDate>
             <sparkle:version>0.1.8</sparkle:version>

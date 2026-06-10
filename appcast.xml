@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.10</title>
+            <pubDate>Wed, 10 Jun 2026 06:11:13 +0000</pubDate>
+            <sparkle:version>0.1.10</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Auto-prompt for Accessibility when Hide Native HUD is enabled]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.10/iLand-0.1.10.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="J6pxy+uPZeMqooqpS/UqZbwRDpJ1YAa7w01E6ocVtny2uDNi0JnBoxBbeI7MBwnpNVWaJ3gTTUVh9o9D2ybHBg==" length="14434606" />
+        </item>
+        <item>
             <title>Version 0.1.9</title>
             <pubDate>Tue, 09 Jun 2026 13:17:16 +0000</pubDate>
             <sparkle:version>0.1.9</sparkle:version>

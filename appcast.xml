@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.19</title>
+            <pubDate>Sat, 20 Jun 2026 21:45:01 +0000</pubDate>
+            <sparkle:version>0.1.19</sparkle:version>
+            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Strip the SwiftUI shadow modifier entirely in Liquid Glass mode (no more 15px halo)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.19/iLand-0.1.19.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="1NCgW9Dcubj3v90ljhvk3TIvSvwsUJAiUUr1TTBJouxpuj20I36OPueyemapxaqA3Xjo0E+5LYwga6N71AvdCQ==" length="14439651" />
+        </item>
+        <item>
             <title>Version 0.1.18</title>
             <pubDate>Sat, 20 Jun 2026 21:33:35 +0000</pubDate>
             <sparkle:version>0.1.18</sparkle:version>

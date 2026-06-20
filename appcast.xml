@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.14</title>
+            <pubDate>Sat, 20 Jun 2026 21:05:07 +0000</pubDate>
+            <sparkle:version>0.1.14</sparkle:version>
+            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Liquid Glass — native glassEffect masked with top-to-bottom black gradient (notch top stays solid)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.14/iLand-0.1.14.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="r8B4rmNuKv0CgF6dyli6EAXqyNqhwyIAinpBMqnXd3OND9A/FDCosVJp6LLXjnSxOLJtciJWh+myB25coisGDQ==" length="14438817" />
+        </item>
+        <item>
             <title>Version 0.1.13</title>
             <pubDate>Sat, 20 Jun 2026 18:31:23 +0000</pubDate>
             <sparkle:version>0.1.13</sparkle:version>

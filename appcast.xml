@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.11</title>
+            <pubDate>Sat, 20 Jun 2026 18:17:34 +0000</pubDate>
+            <sparkle:version>0.1.11</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Liquid Glass notch background — opt-in macOS 26 Tahoe look (Settings → iLand)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.11/iLand-0.1.11.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="mf9Jepbq5kvDBbJ6wRN24eK+X8cfQUIqOhs+4iawFVePyIKZMnoIjeO/7KwmvccNEwhHuAs7yUXKQdkBROu/AA==" length="14438373" />
+        </item>
+        <item>
             <title>Version 0.1.10</title>
             <pubDate>Wed, 10 Jun 2026 06:11:13 +0000</pubDate>
             <sparkle:version>0.1.10</sparkle:version>

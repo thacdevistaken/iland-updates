@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.13</title>
+            <pubDate>Sat, 20 Jun 2026 18:31:23 +0000</pubDate>
+            <sparkle:version>0.1.13</sparkle:version>
+            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Switched Liquid Glass to native macOS 26 glassEffect API]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.13/iLand-0.1.13.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="NRx8eVD+aufl9atxxWTNfrLisPa3NzaszCWtN83EvMgc86RoxHdNOyYTlxcOTHrfujWFnD5fn/YlgT8XXtabDg==" length="14438100" />
+        </item>
+        <item>
             <title>Version 0.1.12</title>
             <pubDate>Sat, 20 Jun 2026 18:24:06 +0000</pubDate>
             <sparkle:version>0.1.12</sparkle:version>

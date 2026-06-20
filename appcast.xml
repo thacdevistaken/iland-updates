@@ -6,6 +6,30 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.16</title>
+            <pubDate>Sat, 20 Jun 2026 21:17:33 +0000</pubDate>
+            <sparkle:version>0.1.16</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Liquid Glass — ultraThinMaterial + Glass at 35% for clearer, less frosted look]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.16/iLand-0.1.16.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="2Ehdkl+CxtcYhvMZuW6JFGPyTVDRnT76H0XF+5QBgWOmx95JC9QvrY/h8YAQVUDi25/IjmS/JDp8quVxv6KIAg==" length="14439119" />
+        </item>
+        <item>
+            <title>Version 0.1.15</title>
+            <pubDate>Sat, 20 Jun 2026 21:13:13 +0000</pubDate>
+            <sparkle:version>0.1.15</sparkle:version>
+            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Liquid Glass — 55% black tint to dial down the blur intensity]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.15/iLand-0.1.15.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="IA4aCRKGTGUuZgY6Or+bciX3OtaRpvdCngbqWMSTOJwl9WLHdH2ww6rRclrJ26HUHQ1QgLiPLWC7lC/fWSp/Cg==" length="14438907" />
+        </item>
+        <item>
             <title>Version 0.1.14</title>
             <pubDate>Sat, 20 Jun 2026 21:05:07 +0000</pubDate>
             <sparkle:version>0.1.14</sparkle:version>

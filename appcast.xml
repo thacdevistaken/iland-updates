@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.18</title>
+            <pubDate>Sat, 20 Jun 2026 21:33:35 +0000</pubDate>
+            <sparkle:version>0.1.18</sparkle:version>
+            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Drop the panel drop-shadow when Liquid Glass is on (alpha-mask fade was clipping it)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.18/iLand-0.1.18.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="FdjpvoXsWS6kUj8ZUH4qE2Ug4jUmi88Q57QFLzAU9Y7RWM3gJOhyzSfGVKt1dVZpQwbi1XLxyljgu3DF6Qm5Dw==" length="14439252" />
+        </item>
+        <item>
             <title>Version 0.1.17</title>
             <pubDate>Sat, 20 Jun 2026 21:23:05 +0000</pubDate>
             <sparkle:version>0.1.17</sparkle:version>

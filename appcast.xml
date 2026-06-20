@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.23</title>
+            <pubDate>Sat, 20 Jun 2026 22:37:01 +0000</pubDate>
+            <sparkle:version>0.1.23</sparkle:version>
+            <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Restore Liquid Glass borders by re-binding glassEffect to the notch shape]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.23/iLand-0.1.23.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="zIuou1qCSi5Yx/Syoxr1jZxvu+PrvDQvCw6m76zUuAbi3wKQzeUlTdVrSO5uTo6km/C44cqoBvdtLg+jAKvUAw==" length="14440300" />
+        </item>
+        <item>
             <title>Version 0.1.22</title>
             <pubDate>Sat, 20 Jun 2026 22:27:55 +0000</pubDate>
             <sparkle:version>0.1.22</sparkle:version>

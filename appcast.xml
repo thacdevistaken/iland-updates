@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.22</title>
+            <pubDate>Sat, 20 Jun 2026 22:27:55 +0000</pubDate>
+            <sparkle:version>0.1.22</sparkle:version>
+            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Force VFX state.active via timer pump + static-rect glass to restore morph animation]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.22/iLand-0.1.22.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="org5ZQM9OWYVNVCG7k3AYW9nfQw1JfbyWDtop1KFFbJlJmtfEDzY17K7zhTqznY5jGXavCMBH3Q1gzlzZ/hxAQ==" length="14440155" />
+        </item>
+        <item>
             <title>Version 0.1.21</title>
             <pubDate>Sat, 20 Jun 2026 22:11:05 +0000</pubDate>
             <sparkle:version>0.1.21</sparkle:version>

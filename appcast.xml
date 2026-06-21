@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.28</title>
+            <pubDate>Sun, 21 Jun 2026 00:11:38 +0000</pubDate>
+            <sparkle:version>0.1.28</sparkle:version>
+            <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Mount Liquid Glass in every mode (mask it in compact) + outer clip kills halo]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.28/iLand-0.1.28.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="yo21O7N1br+W1WLTuSeRv5AF9bqslnSYlXJFnSJeJOvz/Beq9W0uJl2Oha9I3jf4x1WCkglAN1KdLp+s2jmHAw==" length="14440391" />
+        </item>
+        <item>
             <title>Version 0.1.27</title>
             <pubDate>Sun, 21 Jun 2026 00:02:17 +0000</pubDate>
             <sparkle:version>0.1.27</sparkle:version>

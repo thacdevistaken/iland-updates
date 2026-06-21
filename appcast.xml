@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.36</title>
+            <pubDate>Sun, 21 Jun 2026 01:42:07 +0000</pubDate>
+            <sparkle:version>0.1.36</sparkle:version>
+            <sparkle:shortVersionString>0.1.36</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Pin notch panel to dark appearance so Liquid Glass never goes light when the system flips to light mode]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.36/iLand-0.1.36.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="JALNf1WoOS6ix+4Z2Ey69rdkHI7dkJ492nwms+v+2qxplIztRfJpn6U2xROO/6d0w6ghPcXAc9hRNG4VPHBXBg==" length="14442850" />
+        </item>
+        <item>
             <title>Version 0.1.35</title>
             <pubDate>Sun, 21 Jun 2026 01:35:48 +0000</pubDate>
             <sparkle:version>0.1.35</sparkle:version>

@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.35</title>
+            <pubDate>Sun, 21 Jun 2026 01:35:48 +0000</pubDate>
+            <sparkle:version>0.1.35</sparkle:version>
+            <sparkle:shortVersionString>0.1.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Color Picker: throttle pixel sample to 30 Hz so cursor follow stays smooth on Tahoe]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.35/iLand-0.1.35.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="TSRDDpNvFLsZZZKY1bm5guwwg1wDewjuOtuh03Bu5vL6H6vKWvDjQLvK0B6S6WKadhOJ7cSg10iWClgpF96UBw==" length="14442818" />
+        </item>
+        <item>
             <title>Version 0.1.34</title>
             <pubDate>Sun, 21 Jun 2026 01:04:22 +0000</pubDate>
             <sparkle:version>0.1.34</sparkle:version>

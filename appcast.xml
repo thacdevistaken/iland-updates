@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.42</title>
+            <pubDate>Sun, 21 Jun 2026 16:59:49 +0000</pubDate>
+            <sparkle:version>0.1.42</sparkle:version>
+            <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Hide Liquid Glass toggle on macOS < 26 (Tahoe) where the API isn't available]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.42/iLand-0.1.42.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="3pPGf6TRaJSl8QnZgSLjnaXOsh+dAMQsaMngI+ntai7zi78zwY+8woiPqUwRxg47Be3B08fhxD2Izcb1Pmo5DQ==" length="14444988" />
+        </item>
+        <item>
             <title>Version 0.1.41</title>
             <pubDate>Sun, 21 Jun 2026 16:47:49 +0000</pubDate>
             <sparkle:version>0.1.41</sparkle:version>

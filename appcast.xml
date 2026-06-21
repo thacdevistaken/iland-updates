@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.33</title>
+            <pubDate>Sun, 21 Jun 2026 00:50:16 +0000</pubDate>
+            <sparkle:version>0.1.33</sparkle:version>
+            <sparkle:shortVersionString>0.1.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Color Picker: sample below the loupe window so neither it nor the notch glass contaminates the pick]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.33/iLand-0.1.33.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="pmlK0mmANz8XcThtB0uF+qvSiux21EXwn9tDnytr2lLOXtSpC9Zn0QGJNm1pIPrCE0BF2pAYw0i/UrjJ8kAZAw==" length="14442762" />
+        </item>
+        <item>
             <title>Version 0.1.32</title>
             <pubDate>Sun, 21 Jun 2026 00:41:56 +0000</pubDate>
             <sparkle:version>0.1.32</sparkle:version>

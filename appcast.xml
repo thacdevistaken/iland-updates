@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.31</title>
+            <pubDate>Sun, 21 Jun 2026 00:31:21 +0000</pubDate>
+            <sparkle:version>0.1.31</sparkle:version>
+            <sparkle:shortVersionString>0.1.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Keep .shadow modifier mounted so classic-mode morph animation survives Liquid Glass toggles]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.31/iLand-0.1.31.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="lHz4kUoB7lXsrn2UsXXs4VKq29/ElfbHYJP98WoaxacymvO6nug5Nn9oi+xtAMdoryfNA8yYorA587v+NibHCA==" length="14440658" />
+        </item>
+        <item>
             <title>Version 0.1.30</title>
             <pubDate>Sun, 21 Jun 2026 00:26:09 +0000</pubDate>
             <sparkle:version>0.1.30</sparkle:version>

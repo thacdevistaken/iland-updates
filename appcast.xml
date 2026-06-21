@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.34</title>
+            <pubDate>Sun, 21 Jun 2026 01:04:22 +0000</pubDate>
+            <sparkle:version>0.1.34</sparkle:version>
+            <sparkle:shortVersionString>0.1.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Color Picker: preflight Screen Recording and prompt when missing — fixes wrong colors outside iLand's own windows]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.34/iLand-0.1.34.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="JvQKFn69Xy7rFm6g+1gl1pX5A8DwdwS8s0pTDujs4dpswb5FVdTN/9tUFyRylHPvf79Fa1DZ9K8hKvJWuEfkAQ==" length="14442813" />
+        </item>
+        <item>
             <title>Version 0.1.33</title>
             <pubDate>Sun, 21 Jun 2026 00:50:16 +0000</pubDate>
             <sparkle:version>0.1.33</sparkle:version>

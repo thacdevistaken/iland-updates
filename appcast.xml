@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.41</title>
+            <pubDate>Sun, 21 Jun 2026 16:47:49 +0000</pubDate>
+            <sparkle:version>0.1.41</sparkle:version>
+            <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[AirDrop card: native Liquid Glass with navy tint when the Settings toggle is on]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.41/iLand-0.1.41.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="A4lTUcR1Zk+95dlVdopbP4eOeWoFdvM8Ox1plbO0PHVAkP8RL9LyjAc678Saaii2CNRpe6LzXa63Cu1jAEhPBA==" length="14445170" />
+        </item>
+        <item>
             <title>Version 0.1.40</title>
             <pubDate>Sun, 21 Jun 2026 16:33:11 +0000</pubDate>
             <sparkle:version>0.1.40</sparkle:version>

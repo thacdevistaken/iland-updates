@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.27</title>
+            <pubDate>Sun, 21 Jun 2026 00:02:17 +0000</pubDate>
+            <sparkle:version>0.1.27</sparkle:version>
+            <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Drop hand-drawn rim — let .glassEffect(.regular, in: shape) paint its own native Liquid Glass border]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.27/iLand-0.1.27.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="iLIOrKJJFJtYHwRpN6g5Jfb//1J1SNNpK1uGzRIO1yj2rb1fKJ25WK7xxX++zSSFxhkk8Ols4Z65zU0g4HJEAA==" length="14440262" />
+        </item>
+        <item>
             <title>Version 0.1.26</title>
             <pubDate>Sat, 20 Jun 2026 23:29:53 +0000</pubDate>
             <sparkle:version>0.1.26</sparkle:version>

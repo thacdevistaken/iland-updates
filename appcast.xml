@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.43</title>
+            <pubDate>Sun, 21 Jun 2026 21:58:42 +0000</pubDate>
+            <sparkle:version>0.1.43</sparkle:version>
+            <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Liquid Glass: dedicated Settings decoration glyph (replaces the Haptics placeholder)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.43/iLand-0.1.43.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="5uOJ5lGv2K2fdOAQVD/G+KxpG00SjZ2Q3qLUdBncL1LrYzmzqObnkUCuCcZ9lvuNoatC8MMW2o78e2fxSgVkDg==" length="14447417" />
+        </item>
+        <item>
             <title>Version 0.1.42</title>
             <pubDate>Sun, 21 Jun 2026 16:59:49 +0000</pubDate>
             <sparkle:version>0.1.42</sparkle:version>

@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.37</title>
+            <pubDate>Sun, 21 Jun 2026 01:53:14 +0000</pubDate>
+            <sparkle:version>0.1.37</sparkle:version>
+            <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Color Picker: CGEventTap blocks clicks during pick + .bestResolution capture for accurate HEX]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.37/iLand-0.1.37.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="dXBcg9tffkD5G8OVRs5+M/wBFmSoefiC0zeJpvlMHsbOLIHfwHKCFwiZ1zu2Crxc256a07qbAlGG0BB02afPBA==" length="14444594" />
+        </item>
+        <item>
             <title>Version 0.1.36</title>
             <pubDate>Sun, 21 Jun 2026 01:42:07 +0000</pubDate>
             <sparkle:version>0.1.36</sparkle:version>

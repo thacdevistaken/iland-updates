@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.44</title>
+            <pubDate>Sun, 21 Jun 2026 22:31:07 +0000</pubDate>
+            <sparkle:version>0.1.44</sparkle:version>
+            <sparkle:shortVersionString>0.1.44</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Add Full Liquid Glass mode (no top mask) + rename existing toggle to Semi Liquid Glass]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.44/iLand-0.1.44.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="ku9YAcFzJkfkyYaT2X3TlHp5DRQaN9BXulDVELM4PravKTF9S2Z+qQ40YgUZfk5mdc2hogLA4abq+soIEokuCA==" length="14420976" />
+        </item>
+        <item>
             <title>Version 0.1.43</title>
             <pubDate>Sun, 21 Jun 2026 21:58:42 +0000</pubDate>
             <sparkle:version>0.1.43</sparkle:version>

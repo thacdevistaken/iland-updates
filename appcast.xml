@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.32</title>
+            <pubDate>Sun, 21 Jun 2026 00:41:56 +0000</pubDate>
+            <sparkle:version>0.1.32</sparkle:version>
+            <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Liquid Glass on every widget card (Weather/Memory/WiFi/Calendar/Timer/Mirror/ColorPicker/Translation) via the same Settings toggle]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.32/iLand-0.1.32.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="D5Vi5vY1+Br1vVE1mwRoUVLTvNObGYygSUiBsDL3SWKXYBsp4+jWP1pWX5P84aX6JAkDQOl2euTTiZU75FrmCg==" length="14442608" />
+        </item>
+        <item>
             <title>Version 0.1.31</title>
             <pubDate>Sun, 21 Jun 2026 00:31:21 +0000</pubDate>
             <sparkle:version>0.1.31</sparkle:version>

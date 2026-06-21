@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.29</title>
+            <pubDate>Sun, 21 Jun 2026 00:17:50 +0000</pubDate>
+            <sparkle:version>0.1.29</sparkle:version>
+            <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Call panel.makeKey() on expand so Liquid Glass renders active on hover]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.29/iLand-0.1.29.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="Dcv0lShsbXdniQaRHmHpHwI0FcYQsOq9dBmvXhtqjX1QyBL26+NZ74rn2Sav1tV3hCF8DBbUO3+vqsTt1rONAg==" length="14440454" />
+        </item>
+        <item>
             <title>Version 0.1.28</title>
             <pubDate>Sun, 21 Jun 2026 00:11:38 +0000</pubDate>
             <sparkle:version>0.1.28</sparkle:version>

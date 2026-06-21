@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.30</title>
+            <pubDate>Sun, 21 Jun 2026 00:26:09 +0000</pubDate>
+            <sparkle:version>0.1.30</sparkle:version>
+            <sparkle:shortVersionString>0.1.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Liquid Glass on the Battery (DeviceCard) widget when the same Settings toggle is on]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.30/iLand-0.1.30.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="egROtOK5wJPN6KCKzu3Xyj6TAQn2W39cNO+Cq95idFD7ldsl1uct4wFKNV4LQIF7WNXD0/aoaBsSMBlWOYkgCQ==" length="14441002" />
+        </item>
+        <item>
             <title>Version 0.1.29</title>
             <pubDate>Sun, 21 Jun 2026 00:17:50 +0000</pubDate>
             <sparkle:version>0.1.29</sparkle:version>

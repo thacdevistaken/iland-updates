@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>Version 0.1.45</title>
-            <pubDate>Tue, 23 Jun 2026 22:30:27 +0000</pubDate>
+            <pubDate>Wed, 24 Jun 2026 19:19:44 +0000</pubDate>
             <sparkle:version>0.1.45</sparkle:version>
             <sparkle:shortVersionString>0.1.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -15,19 +15,7 @@
             <enclosure
                 url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.45/iLand-0.1.45.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="ck/Kni1hMbO3gKKCc9g3vvpDYCQX5b9OxziHYyVqM78nLThg+C0/9CvZktVFrcy3OUECGP5UR84Hlg3ujAHBAQ==" length="14416483" />
-        </item>
-        <item>
-            <title>Version 0.1.45</title>
-            <pubDate>Tue, 23 Jun 2026 22:27:57 +0000</pubDate>
-            <sparkle:version>0.1.45</sparkle:version>
-            <sparkle:shortVersionString>0.1.45</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[Restore drag-to-tray: only report panel as key window while actually expanded]]></description>
-            <enclosure
-                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.45/iLand-0.1.45.dmg"
-                type="application/octet-stream"
-                sparkle:edSignature="kBv3HkVm5zSHsG25/kSqdhQ7jMwDFmj8l2SgV+I2p0TBAkZf8EeKOEPl7RtIc/p8u8O27v3KQY2r2UvPO3j3Bw==" length="14416401" />
+                sparkle:edSignature="pgb7fyUYGoQieqll9D1u4XBoxVziW2HlaiBCOhUAQAastt2hZpjvaXQ+NdzRdifNBLpOxklPsLsSa0htcku5BQ==" length="14420976" />
         </item>
         <item>
             <title>Version 0.1.44</title>

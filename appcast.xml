@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.51</title>
+            <pubDate>Thu, 25 Jun 2026 20:53:18 +0000</pubDate>
+            <sparkle:version>0.1.51</sparkle:version>
+            <sparkle:shortVersionString>0.1.51</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[File converter Faz 2: bundled ffmpeg enables video (MP4/MOV/M4V) + MP3 audio output. WebP removed (no native encoder). App ~54MB.]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.51/iLand-0.1.51.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="0VD/RuvjkszCCGxIAn7SfiHtFxLWTGz4k0HDjl66nA3t2kQDEG+XNdXqA6CQCwdcu0/89KLSwyY9ERTNHLRSDw==" length="30835378" />
+        </item>
+        <item>
             <title>Version 0.1.50</title>
             <pubDate>Thu, 25 Jun 2026 20:43:33 +0000</pubDate>
             <sparkle:version>0.1.50</sparkle:version>

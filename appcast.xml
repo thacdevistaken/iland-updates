@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.49</title>
+            <pubDate>Thu, 25 Jun 2026 20:34:09 +0000</pubDate>
+            <sparkle:version>0.1.49</sparkle:version>
+            <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Converter fixes: download straight to ~/Downloads + Finder reveal, Convert button no longer overlaps chips, WebP correctly gated (ImageIO can't encode it — coming with ffmpeg)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.49/iLand-0.1.49.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="kidb80PbHdzPRSR3j61ALIFxLxECCUGF1HUdaKMgCDTkYSTE93fLod4AWLhUEDV5dWExuu5Fds3EPJbaZSAWCg==" length="14440412" />
+        </item>
+        <item>
             <title>Version 0.1.48</title>
             <pubDate>Thu, 25 Jun 2026 20:24:25 +0000</pubDate>
             <sparkle:version>0.1.48</sparkle:version>

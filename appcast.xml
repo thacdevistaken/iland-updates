@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.48</title>
+            <pubDate>Thu, 25 Jun 2026 20:24:25 +0000</pubDate>
+            <sparkle:version>0.1.48</sparkle:version>
+            <sparkle:shortVersionString>0.1.48</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[File converter (Faz 1): drop a file on the new Tray Convert card → pick format → convert → download. Native image (PNG/JPG/HEIC/TIFF/GIF/BMP/WebP) + audio (WAV/M4A/AIFF/CAF). Video coming with ffmpeg.]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.48/iLand-0.1.48.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="GsCsxU7Xbda5trsAiiu5aapZc44uugkYpSTKGS2pdzKgSlXcPGSQbVltrB7kvM6AN/WpqZbe48qTGUWzKmGTDQ==" length="14439433" />
+        </item>
+        <item>
             <title>Version 0.1.47</title>
             <pubDate>Wed, 24 Jun 2026 20:03:05 +0000</pubDate>
             <sparkle:version>0.1.47</sparkle:version>

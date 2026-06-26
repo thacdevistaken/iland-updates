@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.54</title>
+            <pubDate>Fri, 26 Jun 2026 17:35:18 +0000</pubDate>
+            <sparkle:version>0.1.54</sparkle:version>
+            <sparkle:shortVersionString>0.1.54</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Converter: return to the normal Tray after Download completes]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.54/iLand-0.1.54.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="DXUaikaRxL16HmzAyr3gxCyCH3UpthQ4h36m2A56jJ+wy2oxp35GEz6Lg/NjguV9LRIlSjOaP1moMpy7+cCRBg==" length="31794554" />
+        </item>
+        <item>
             <title>Version 0.1.53</title>
             <pubDate>Fri, 26 Jun 2026 17:27:13 +0000</pubDate>
             <sparkle:version>0.1.53</sparkle:version>

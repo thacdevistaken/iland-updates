@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.53</title>
+            <pubDate>Fri, 26 Jun 2026 17:27:13 +0000</pubDate>
+            <sparkle:version>0.1.53</sparkle:version>
+            <sparkle:shortVersionString>0.1.53</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Converter UI: Convert button now sits level with the format chips, and the chip row fades on its right edge to signal horizontal scrolling]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.53/iLand-0.1.53.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="9y2SVrBBLNINE+UWVjv8sXWXoOOXmldsm15np4/9mjtmR69r+USdxX8FGYkRhVU85Bhqyf3PsiunQkrP/14fBQ==" length="31794582" />
+        </item>
+        <item>
             <title>Version 0.1.52</title>
             <pubDate>Fri, 26 Jun 2026 17:09:51 +0000</pubDate>
             <sparkle:version>0.1.52</sparkle:version>

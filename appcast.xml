@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.64</title>
+            <pubDate>Sat, 27 Jun 2026 04:55:29 +0000</pubDate>
+            <sparkle:version>0.1.64</sparkle:version>
+            <sparkle:shortVersionString>0.1.64</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Compact media hides when nothing is actually playing: system mode shows only playing sources, pinned paused state clears once its app has been closed]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.64/iLand-0.1.64.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="fxZ52JTi3TtGci3q+IdGlrksVTTaZ73XJxpn7GQ3adVZmf2kC9cPCXyPpVr0Eh3ISN2gvBbMTJKE8Q1u13hTDA==" length="31810732" />
+        </item>
+        <item>
             <title>Version 0.1.63</title>
             <pubDate>Sat, 27 Jun 2026 04:38:18 +0000</pubDate>
             <sparkle:version>0.1.63</sparkle:version>

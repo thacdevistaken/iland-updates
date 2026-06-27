@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.63</title>
+            <pubDate>Sat, 27 Jun 2026 04:38:18 +0000</pubDate>
+            <sparkle:version>0.1.63</sparkle:version>
+            <sparkle:shortVersionString>0.1.63</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Battery widget: long device names wrap/truncate instead of clipping; battery now read from any reporting Bluetooth device, not just Apple]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.63/iLand-0.1.63.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="Hb1Kb4Pe9tkBJ6ySR8nV5yciN4BCtzjP8ZZufuMf4OKpU+sQCbcAkx3B/P/+7feid+6FDUpzCLS6RkTq7yTWBg==" length="31810757" />
+        </item>
+        <item>
             <title>Version 0.1.62</title>
             <pubDate>Fri, 26 Jun 2026 19:05:32 +0000</pubDate>
             <sparkle:version>0.1.62</sparkle:version>

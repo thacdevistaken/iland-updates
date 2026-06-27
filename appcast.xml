@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.69</title>
+            <pubDate>Sat, 27 Jun 2026 06:45:19 +0000</pubDate>
+            <sparkle:version>0.1.69</sparkle:version>
+            <sparkle:shortVersionString>0.1.69</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Screen recording (Faz 1): record button in the top bar → full-screen capture with system audio + mic (macOS 15+), red timer chip while recording, saves to ~/Movies/iLand + reveals in Finder. iLand's own windows excluded from the capture. Area selection next.]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.69/iLand-0.1.69.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="11bZX1JfK9HwxUeuQAy7CUtr3ZpDay48CS8yED0WNT0W/+Mo68geeFNDcxO2E4Wsc5Js5lIbsKED8Wyj56wGBA==" length="31826668" />
+        </item>
+        <item>
             <title>Version 0.1.68</title>
             <pubDate>Sat, 27 Jun 2026 05:52:37 +0000</pubDate>
             <sparkle:version>0.1.68</sparkle:version>

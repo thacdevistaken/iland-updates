@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.65</title>
+            <pubDate>Sat, 27 Jun 2026 05:00:33 +0000</pubDate>
+            <sparkle:version>0.1.65</sparkle:version>
+            <sparkle:shortVersionString>0.1.65</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Battery widget: when no charge level is available, center the icon + name as one stack instead of leaving an empty ring slot]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.65/iLand-0.1.65.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="GyT0UiDSN1U5+hGC+z2qUO6igEmk3L1H4jdNJBuiUGw7n49xC91MwdqNhMnnQASRJhABige2qzSacA9f2lZ+CQ==" length="31811500" />
+        </item>
+        <item>
             <title>Version 0.1.64</title>
             <pubDate>Sat, 27 Jun 2026 04:55:29 +0000</pubDate>
             <sparkle:version>0.1.64</sparkle:version>

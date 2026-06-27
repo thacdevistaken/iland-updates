@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.71</title>
+            <pubDate>Sat, 27 Jun 2026 07:14:48 +0000</pubDate>
+            <sparkle:version>0.1.71</sparkle:version>
+            <sparkle:shortVersionString>0.1.71</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Recording: Return now records full screen; selection dims only outside the chosen area; both screenshots and recordings prompt for a save location (Finder save panel)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.71/iLand-0.1.71.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="IU7QxoGBPiZoIOJybOqUud0ao5hoHy+7x4U2h0jP25J10GGfh+KHXLIAj2D9oODDvs0+lAG2XsoQ/MlZxxsqBA==" length="31831785" />
+        </item>
+        <item>
             <title>Version 0.1.70</title>
             <pubDate>Sat, 27 Jun 2026 07:05:27 +0000</pubDate>
             <sparkle:version>0.1.70</sparkle:version>

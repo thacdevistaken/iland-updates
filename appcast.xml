@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.87</title>
+            <pubDate>Sun, 28 Jun 2026 04:21:08 +0000</pubDate>
+            <sparkle:version>0.1.87</sparkle:version>
+            <sparkle:shortVersionString>0.1.87</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Audio visualizer: drive bar heights directly from the per-frame timeline (remove the redundant implicit per-frame animation + 60fps cap) for smooth motion at native refresh / ProMotion]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.87/iLand-0.1.87.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="MT2OLBvrMiFZFH6+5dP3dQCZpP9q9pyHz71jsTo1/+yfE3wUTfV0yedcmHHW8zAgzgtoV+KBLBOGD7cMKrGOAg==" length="31851890" />
+        </item>
+        <item>
             <title>Version 0.1.86</title>
             <pubDate>Sun, 28 Jun 2026 04:11:11 +0000</pubDate>
             <sparkle:version>0.1.86</sparkle:version>

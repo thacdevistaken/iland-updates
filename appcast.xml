@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.76</title>
+            <pubDate>Sun, 28 Jun 2026 01:23:04 +0000</pubDate>
+            <sparkle:version>0.1.76</sparkle:version>
+            <sparkle:shortVersionString>0.1.76</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Recording bounds overlay: drop the red border, just the dim outside the recorded area]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.76/iLand-0.1.76.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="1zCWLrlJXTGKHBBQ09wWPnZyaMJIIjWxleZWmqm62jToAFgU+368eJQmopvHcaDziZL/aqj0qs3SPDLbYvYFBg==" length="31847678" />
+        </item>
+        <item>
             <title>Version 0.1.75</title>
             <pubDate>Sun, 28 Jun 2026 01:18:25 +0000</pubDate>
             <sparkle:version>0.1.75</sparkle:version>

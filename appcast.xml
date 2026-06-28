@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.89</title>
+            <pubDate>Sun, 28 Jun 2026 06:49:05 +0000</pubDate>
+            <sparkle:version>0.1.89</sparkle:version>
+            <sparkle:shortVersionString>0.1.89</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Adds a Beta updates opt-in (Settings → About). Test builds now ship to the beta channel and only reach opted-in devices; everyone else stays on promoted stable releases.]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.89/iLand-0.1.89.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="ggmUmqG0/RBV7b87UOENw80YqfWf8e7fSeN0Lf+ivTbENrIwIX0q0iOEmi8mm4p7zkW593PkZkEXnI07TyazBw==" length="31853890" />
+        </item>
+        <item>
             <title>Version 0.1.88</title>
             <pubDate>Sun, 28 Jun 2026 04:40:58 +0000</pubDate>
             <sparkle:version>0.1.88</sparkle:version>

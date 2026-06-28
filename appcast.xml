@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.78</title>
+            <pubDate>Sun, 28 Jun 2026 02:06:09 +0000</pubDate>
+            <sparkle:version>0.1.78</sparkle:version>
+            <sparkle:shortVersionString>0.1.78</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Recording: switch to SCRecordingOutput (macOS 15+) so the MP4 is a valid, playable file; region picker shows Return/Esc as key chips]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.78/iLand-0.1.78.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="uNAHWZLBY5Dky5MZMywHcSqoFKzhvPcDtX5K3JQDl/WSBb5n5EQNHEWPPGiOy3rKz15atWQIMDEvYKlL32J1Cw==" length="31849120" />
+        </item>
+        <item>
             <title>Version 0.1.77</title>
             <pubDate>Sun, 28 Jun 2026 01:55:55 +0000</pubDate>
             <sparkle:version>0.1.77</sparkle:version>

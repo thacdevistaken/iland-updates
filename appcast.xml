@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.77</title>
+            <pubDate>Sun, 28 Jun 2026 01:55:55 +0000</pubDate>
+            <sparkle:version>0.1.77</sparkle:version>
+            <sparkle:shortVersionString>0.1.77</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Settings → General: 'Include iLand in video recordings' toggle (above Reset). Off = notch excluded from recordings (default); on = notch visible. Dim bounds overlay always excluded.]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.77/iLand-0.1.77.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="hvwMjzoH/JEwSpiRD3q1+U8Dq9hfjcsaJbon5eJ/Z7P5sPe0vxQEH4X+TgeMlvJj7UB5Fl6RteoRX6LXJJ2jAQ==" length="31848048" />
+        </item>
+        <item>
             <title>Version 0.1.76</title>
             <pubDate>Sun, 28 Jun 2026 01:23:04 +0000</pubDate>
             <sparkle:version>0.1.76</sparkle:version>

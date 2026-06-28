@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.75</title>
+            <pubDate>Sun, 28 Jun 2026 01:18:25 +0000</pubDate>
+            <sparkle:version>0.1.75</sparkle:version>
+            <sparkle:shortVersionString>0.1.75</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Recording: live bounds overlay — while recording an area, everything outside it is lightly dimmed with a red frame (excluded from the recording itself)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.75/iLand-0.1.75.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="PLmXT0s5qUX/XMKxxlccGuBdPD3bQ7k33DPkqQdiqXBuDUxfEETEhT0aN6RvWmgPCpSPnsOGSzKjG5pEEfPhAw==" length="31848321" />
+        </item>
+        <item>
             <title>Version 0.1.74</title>
             <pubDate>Sun, 28 Jun 2026 01:10:56 +0000</pubDate>
             <sparkle:version>0.1.74</sparkle:version>

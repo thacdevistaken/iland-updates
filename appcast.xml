@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.81</title>
+            <pubDate>Sun, 28 Jun 2026 02:53:30 +0000</pubDate>
+            <sparkle:version>0.1.81</sparkle:version>
+            <sparkle:shortVersionString>0.1.81</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Recording: confine all stream state to the main thread (fixes Swift exclusive-access SIGTRAP crash on stop/second-record) + explicit finalize so the save panel always appears]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.81/iLand-0.1.81.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="NCsMilMECG2dtbvP3CHt0w7Llw1YRCOXxCdy0oeEjieSvqVVLaUaJrVvBA+XQQFfcTP9CVRzCmiuyCjMfjNUCA==" length="31849395" />
+        </item>
+        <item>
             <title>Version 0.1.80</title>
             <pubDate>Sun, 28 Jun 2026 02:30:30 +0000</pubDate>
             <sparkle:version>0.1.80</sparkle:version>

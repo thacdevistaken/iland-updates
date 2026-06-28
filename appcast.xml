@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.79</title>
+            <pubDate>Sun, 28 Jun 2026 02:21:31 +0000</pubDate>
+            <sparkle:version>0.1.79</sparkle:version>
+            <sparkle:shortVersionString>0.1.79</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Recording: save panel now appears for area recordings + when stopped via the macOS menu-bar button (save runs on recording-finish, run-once). Bounds overlay sits below the notch so the stop chip stays clickable.]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.79/iLand-0.1.79.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="Eswm8wbddoOfCkj3PnKsy13elK5hS0jeZJHQbE7ARvX/xFVkWecZ0CsY1+rvcf7KD0XyQLfs7NrobIAZH3D9Ag==" length="31848432" />
+        </item>
+        <item>
             <title>Version 0.1.78</title>
             <pubDate>Sun, 28 Jun 2026 02:06:09 +0000</pubDate>
             <sparkle:version>0.1.78</sparkle:version>

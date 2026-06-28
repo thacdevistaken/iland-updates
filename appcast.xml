@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.88</title>
+            <pubDate>Sun, 28 Jun 2026 04:40:58 +0000</pubDate>
+            <sparkle:version>0.1.88</sparkle:version>
+            <sparkle:shortVersionString>0.1.88</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Now Playing: keep a paused track on the notch (compact + full) while its app is still open; only clear when Spotify/Music/the player is actually closed]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.88/iLand-0.1.88.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="g47izctV7SMNvq0OktW1TqFZHM2PrLYwswzorM/vHrt0QS9hlxD+oIfCcqaXbLpmy+awz3olMpw1m2CYyWUhCA==" length="31852576" />
+        </item>
+        <item>
             <title>Version 0.1.87</title>
             <pubDate>Sun, 28 Jun 2026 04:21:08 +0000</pubDate>
             <sparkle:version>0.1.87</sparkle:version>

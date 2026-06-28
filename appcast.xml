@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.74</title>
+            <pubDate>Sun, 28 Jun 2026 01:10:56 +0000</pubDate>
+            <sparkle:version>0.1.74</sparkle:version>
+            <sparkle:shortVersionString>0.1.74</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Recording region picker rebuilt with SwiftUI (reliable dim render) — area outside selection is darkened, with a live size readout]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.74/iLand-0.1.74.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="ewwFIRE7gJ2oSyeE4vOG/uNk7qvmRrsj1fM4VqBeTzzfO+YpwguDiBmhtYt6k/l75fhx+hgOD5g3Xd0wjk1tCA==" length="31834014" />
+        </item>
+        <item>
             <title>Version 0.1.73</title>
             <pubDate>Sat, 27 Jun 2026 09:01:33 +0000</pubDate>
             <sparkle:version>0.1.73</sparkle:version>

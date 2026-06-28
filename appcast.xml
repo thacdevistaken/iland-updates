@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.85</title>
+            <pubDate>Sun, 28 Jun 2026 04:00:48 +0000</pubDate>
+            <sparkle:version>0.1.85</sparkle:version>
+            <sparkle:shortVersionString>0.1.85</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Compact view: while recording, the pill extends and shows a pulsing red dot + live timer on the right (with artwork if music is also playing)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.85/iLand-0.1.85.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="Ha5kJF/f9qx5FEibR1C8mtIDmtidEMqIUrTuFrB9LjzGfL5w16VRkwuYrRR9EebB3Z4+fYuSx12UnbA/Ybf+AQ==" length="31846167" />
+        </item>
+        <item>
             <title>Version 0.1.84</title>
             <pubDate>Sun, 28 Jun 2026 03:35:11 +0000</pubDate>
             <sparkle:version>0.1.84</sparkle:version>

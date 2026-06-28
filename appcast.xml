@@ -6,6 +6,18 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.82</title>
+            <pubDate>Sun, 28 Jun 2026 03:03:35 +0000</pubDate>
+            <sparkle:version>0.1.82</sparkle:version>
+            <sparkle:shortVersionString>0.1.82</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Recording: make the service fully @MainActor (nonisolated init + delegates) so SCStream never crosses an actor boundary — fixes the EXC_BREAKPOINT crash for good]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.82/iLand-0.1.82.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="VLj42efAtQ3wa7DH1zdxW/ROq0hZowYJZp0j9QZx/z6SsMr4lVDlY7p963fl23BNwPM3rcni7Xh6Y1o0FLs9CQ==" length="31849314" />
+        </item>
+        <item>
             <title>Version 0.1.81</title>
             <pubDate>Sun, 28 Jun 2026 02:53:30 +0000</pubDate>
             <sparkle:version>0.1.81</sparkle:version>

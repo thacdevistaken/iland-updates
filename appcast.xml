@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.90</title>
+            <pubDate>Mon, 29 Jun 2026 08:15:36 +0000</pubDate>
+            <sparkle:version>0.1.90</sparkle:version>
+            <sparkle:shortVersionString>0.1.90</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Settings: the 'Include iLand in video recordings' row now has the same background blob + an SF Symbol video glyph as the other rows]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.90/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="VCsqR8WigdBAEODp1RJj0mIEw9UepSpK74yCH60WXpTnujiBEcaRCo/FXpQChPGoVbGnDfnx3zvTe+v+FL1lCQ==" length="31855075" />
+        </item>
+        <item>
             <title>Version 0.1.89</title>
             <pubDate>Sun, 28 Jun 2026 06:49:05 +0000</pubDate>
             <sparkle:version>0.1.89</sparkle:version>

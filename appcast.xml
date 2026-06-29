@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.92</title>
+            <pubDate>Mon, 29 Jun 2026 09:38:49 +0000</pubDate>
+            <sparkle:version>0.1.92</sparkle:version>
+            <sparkle:shortVersionString>0.1.92</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Revert the Semi Liquid Glass mask experiment — back to the original gradient (solid top ~40%, fades to clear at the bottom)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.92/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="OT3ZJQfM7f+x7NDdmZ0/dLO8onvwihuOT6ltHfRbILHVpOySklgag8rmCXj0/mBgT3lgDMYFUJjz6nH3CqYUBg==" length="31854996" />
+        </item>
+        <item>
             <title>Version 0.1.91</title>
             <pubDate>Mon, 29 Jun 2026 09:21:05 +0000</pubDate>
             <sparkle:version>0.1.91</sparkle:version>

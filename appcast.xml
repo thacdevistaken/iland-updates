@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.93</title>
+            <pubDate>Mon, 29 Jun 2026 10:07:25 +0000</pubDate>
+            <sparkle:version>0.1.93</sparkle:version>
+            <sparkle:shortVersionString>0.1.93</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Tray: AirDrop + Convert gap now matches (and aligns with) the iLand tab's battery+weather widget gap (8 pt)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.93/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="mSviiWJdaE22MRug9pIqpFanYldw7H/4o9i9GSWDgCVZU2oQ1C+GoAU5M6nI64jtVvbCtj8Rk9HzdPo55UpzDA==" length="31855401" />
+        </item>
+        <item>
             <title>Version 0.1.92</title>
             <pubDate>Mon, 29 Jun 2026 09:38:49 +0000</pubDate>
             <sparkle:version>0.1.92</sparkle:version>

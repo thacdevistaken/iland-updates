@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.111</title>
+            <pubDate>Fri, 03 Jul 2026 15:39:45 +0000</pubDate>
+            <sparkle:version>0.1.111</sparkle:version>
+            <sparkle:shortVersionString>0.1.111</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Perf overhaul: visualizer now runs as render-server Core Animation loops (zero app CPU per frame), artwork is decoded once per track instead of per MediaRemote event, AppleScript polls stop re-downloading album art, dominant-color extraction is memoized. ~16% CPU with music -> under 1%.]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.111/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="Ng/anJQ+VpT7acQiVPc1YSgQepfd5nXPNjn4JxO1H0Voiwkiajg5s4hZRTF+/uVNuVf3PJiO1ILu2uKktndnBw==" length="31922518" />
+        </item>
+        <item>
             <title>Version 0.1.110</title>
             <pubDate>Fri, 03 Jul 2026 14:29:34 +0000</pubDate>
             <sparkle:version>0.1.110</sparkle:version>

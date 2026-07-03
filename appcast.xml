@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.94</title>
+            <pubDate>Fri, 03 Jul 2026 08:52:36 +0000</pubDate>
+            <sparkle:version>0.1.94</sparkle:version>
+            <sparkle:shortVersionString>0.1.94</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Media controls: previous/next buttons now set the slide direction, so pressing previous animates backward instead of reusing the last swipe's direction]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.94/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="QtqNu0p3TAlugIAWmrte5xyrZgDJnBhxTN1RXjx3Zd1lM4pBkgcfBq75VnONFB36oq0j77EUsdEYS25UefjJCg==" length="31856092" />
+        </item>
+        <item>
             <title>Version 0.1.93</title>
             <pubDate>Mon, 29 Jun 2026 10:07:25 +0000</pubDate>
             <sparkle:version>0.1.93</sparkle:version>

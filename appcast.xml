@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.95</title>
+            <pubDate>Fri, 03 Jul 2026 09:05:08 +0000</pubDate>
+            <sparkle:version>0.1.95</sparkle:version>
+            <sparkle:shortVersionString>0.1.95</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Full view: bottom corner radius now scales with the Size Preset so Large / XL panels get proportionally rounder bottom corners]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.95/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="PQ9QRapUIph9I2XqYCTBpePxTr98qrsV7iJOnFhsBz5Yg5TlnSk/JpENrLWjnKH/KSVAlPaWdWkFsXAILoqfDg==" length="31856146" />
+        </item>
+        <item>
             <title>Version 0.1.94</title>
             <pubDate>Fri, 03 Jul 2026 08:52:36 +0000</pubDate>
             <sparkle:version>0.1.94</sparkle:version>

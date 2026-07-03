@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.98</title>
+            <pubDate>Fri, 03 Jul 2026 09:35:20 +0000</pubDate>
+            <sparkle:version>0.1.98</sparkle:version>
+            <sparkle:shortVersionString>0.1.98</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Remove the Liquid Glass tint slider — back to plain Semi / Full toggles]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.98/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="MR7XTxWg3vIJh5dIhSg/M+5kZL8LhS7K4CP/K7RYdLEbYodttkK5+/t2cN/IeSprinn2YVzTwGqPaGakzxK7BA==" length="31856096" />
+        </item>
+        <item>
             <title>Version 0.1.97</title>
             <pubDate>Fri, 03 Jul 2026 09:29:17 +0000</pubDate>
             <sparkle:version>0.1.97</sparkle:version>

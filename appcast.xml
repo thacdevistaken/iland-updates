@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.96</title>
+            <pubDate>Fri, 03 Jul 2026 09:16:54 +0000</pubDate>
+            <sparkle:version>0.1.96</sparkle:version>
+            <sparkle:shortVersionString>0.1.96</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Liquid Glass: add a Tint slider (+ revert) for each mode — Semi fades the lower mask for more glass, Full controls the overall dark tint]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.96/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="SjVZJIktXq11QPvTrbGur6EDZZbQEY6JYwX3U1X94iUKq1pcxTmESTMXHNlg4aI8XKZt663c8kM7INM4/aiOBw==" length="31860560" />
+        </item>
+        <item>
             <title>Version 0.1.95</title>
             <pubDate>Fri, 03 Jul 2026 09:05:08 +0000</pubDate>
             <sparkle:version>0.1.95</sparkle:version>

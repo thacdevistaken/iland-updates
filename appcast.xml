@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.109</title>
+            <pubDate>Fri, 03 Jul 2026 13:56:41 +0000</pubDate>
+            <sparkle:version>0.1.109</sparkle:version>
+            <sparkle:shortVersionString>0.1.109</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Perf: audio visualizer now draws in a single Canvas at ~30fps with precomputed colors (was an uncapped-refresh ForEach that re-resolved the Liquid Glass every frame) — cuts idle-with-music CPU substantially]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.109/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="UkvqP0CwS/0Pc1QzIWo6agFQ0Qa50ymG375PFbpooRp66J0UfY9BAkSYFNOLGVC8+7XDbt6U/fDtolUS/XqKAg==" length="31912446" />
+        </item>
+        <item>
             <title>Version 0.1.108</title>
             <pubDate>Fri, 03 Jul 2026 13:35:09 +0000</pubDate>
             <sparkle:version>0.1.108</sparkle:version>

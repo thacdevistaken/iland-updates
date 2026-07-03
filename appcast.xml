@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.108</title>
+            <pubDate>Fri, 03 Jul 2026 13:35:09 +0000</pubDate>
+            <sparkle:version>0.1.108</sparkle:version>
+            <sparkle:shortVersionString>0.1.108</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Video editor: Copy now exports MP4 (Save stays .mov)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.108/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="mNupqgLT3z5hfn/xPIHtLI3kMef65f4DeA2cBZAbZnpUK/594v0m3BrZVCgsimdDR7zqtfJVsU9lRbVwSqh0BQ==" length="31912537" />
+        </item>
+        <item>
             <title>Version 0.1.107</title>
             <pubDate>Fri, 03 Jul 2026 13:01:01 +0000</pubDate>
             <sparkle:version>0.1.107</sparkle:version>

@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.110</title>
+            <pubDate>Fri, 03 Jul 2026 14:29:34 +0000</pubDate>
+            <sparkle:version>0.1.110</sparkle:version>
+            <sparkle:shortVersionString>0.1.110</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Perf: big CPU cut while music plays — visualizer at 20fps in one Canvas, no per-event MediaRemote logging, cached running-app checks (were hitting LaunchServices on every stream event)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.110/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="PAPQqyXd7Z7ZvEZd+jT0g7nRVzODA0ZR41ZyszdWEjf60ztpPoJko/fVDJYZZFmvfVgAaILbbVxkpKjLCH6gAg==" length="31910809" />
+        </item>
+        <item>
             <title>Version 0.1.109</title>
             <pubDate>Fri, 03 Jul 2026 13:56:41 +0000</pubDate>
             <sparkle:version>0.1.109</sparkle:version>

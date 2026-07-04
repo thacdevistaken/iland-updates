@@ -10,7 +10,6 @@
             <pubDate>Fri, 03 Jul 2026 16:14:05 +0000</pubDate>
             <sparkle:version>0.1.112</sparkle:version>
             <sparkle:shortVersionString>0.1.112</sparkle:shortVersionString>
-            <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[Settings: add a Shortcuts section — assign global keyboard shortcuts for Area Screenshot, Screen Recording, and Color Picker (Carbon hotkeys, no Accessibility needed)]]></description>
             <enclosure

@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.116</title>
+            <pubDate>Tue, 07 Jul 2026 20:48:43 +0000</pubDate>
+            <sparkle:version>0.1.116</sparkle:version>
+            <sparkle:shortVersionString>0.1.116</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Battery: read mouse/keyboard battery from IOKit HID (BatteryPercent) when system_profiler omits it — third-party devices like the MX Master now show a level]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.116/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="Wa1NND5vu+3tSDWeSfd1Eu/yMI9xPG5FoOwSPTtPCGlvVZIfU48rI5IdrKiCom2OfpNml4UzKqTlVjDT8m/oDw==" length="31942960" />
+        </item>
+        <item>
             <title>Version 0.1.115</title>
             <pubDate>Sun, 05 Jul 2026 10:42:44 +0000</pubDate>
             <sparkle:version>0.1.115</sparkle:version>

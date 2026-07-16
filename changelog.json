@@ -1,0 +1,20 @@
+{
+  "product": "iLand",
+  "releases": [
+    {
+      "version": "0.1.112",
+      "date": "2026-07-03",
+      "title": "Capture, edit, and a much lighter iLand",
+      "notes": [
+        { "type": "new", "text": "Screenshot markup — after a capture a preview drops out of the notch. Click it to add arrows, boxes or freehand strokes, crop the shot, then copy or save it." },
+        { "type": "new", "text": "Screen recording editor — record the full screen or just an area, then trim the start and end, crop the frame, and copy it as MP4 or save it." },
+        { "type": "new", "text": "Global keyboard shortcuts for Area Screenshot, Screen Recording and Color Picker — assign them in Settings → Shortcuts." },
+        { "type": "new", "text": "Right-click any shot in the Tray history to edit, copy or delete it, with select-all for quick clean-ups." },
+        { "type": "improved", "text": "Big energy win — iLand now uses a small fraction of the CPU it used to while music is playing." },
+        { "type": "improved", "text": "Swipe between the iLand and Tray tabs — they slide across instead of snapping." },
+        { "type": "improved", "text": "Large and XL sizes get proportionally rounder bottom corners, and the Tray cards now line up with the widgets above them." },
+        { "type": "fixed", "text": "The previous-track button now animates in the direction it actually moves." }
+      ]
+    }
+  ]
+}

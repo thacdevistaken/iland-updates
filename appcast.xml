@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.122</title>
+            <pubDate>Mon, 20 Jul 2026 18:42:24 +0000</pubDate>
+            <sparkle:version>0.1.122</sparkle:version>
+            <sparkle:shortVersionString>0.1.122</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Favorite Apps: the empty widget now opens Settings straight to Widgets, with a new App Store glyph]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.122/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="rS65/uuMTL6vejbpXsPjg8a5yUpSZXALhQ0NtK7WPra/O9twwPTEXk/0hvhDseVYWASeI7+IxGbIDYsp9EEPDw==" length="31988825" />
+        </item>
+        <item>
             <title>Version 0.1.121</title>
             <pubDate>Mon, 20 Jul 2026 18:21:04 +0000</pubDate>
             <sparkle:version>0.1.121</sparkle:version>

@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.123</title>
+            <pubDate>Tue, 21 Jul 2026 19:52:25 +0000</pubDate>
+            <sparkle:version>0.1.123</sparkle:version>
+            <sparkle:shortVersionString>0.1.123</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Silky-smooth audio visualizer — spline-interpolated motion with a seamless loop, still zero per-frame CPU]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.123/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="OBAQIduO7CgeHPR8d9iuVhSZ7eYQLCxp2zc2MpIE+MQAgb37n5uPMEs0wKlE85xhFrfmaT9L5z6DarQOgkwmBg==" length="31989056" />
+        </item>
+        <item>
             <title>Version 0.1.122</title>
             <pubDate>Mon, 20 Jul 2026 18:42:24 +0000</pubDate>
             <sparkle:version>0.1.122</sparkle:version>

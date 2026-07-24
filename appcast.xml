@@ -6,17 +6,17 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
-            <title>Version 0.1.130</title>
-            <pubDate>Fri, 24 Jul 2026 01:52:15 +0000</pubDate>
-            <sparkle:version>0.1.130</sparkle:version>
-            <sparkle:shortVersionString>0.1.130</sparkle:shortVersionString>
+            <title>Version 0.1.131</title>
+            <pubDate>Fri, 24 Jul 2026 01:58:53 +0000</pubDate>
+            <sparkle:version>0.1.131</sparkle:version>
+            <sparkle:shortVersionString>0.1.131</sparkle:shortVersionString>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[New Claude widget — see your Claude Code session in the notch: the pill flashes when a task finishes, and permission prompts can be approved right from the notch]]></description>
+            <description><![CDATA[Removed the experimental Claude widget]]></description>
             <enclosure
-                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.130/iLand.dmg"
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.131/iLand.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="M70I8xqwJSk6FAPNvaAuYrIWs0rbn0pzT3oma65bE2k/eLYAEHW7y2WdKqpC2IequdXqTBYI3s24rzeL11B1DQ==" length="30013234" />
+                sparkle:edSignature="u1xmySEn69qFxReCZ7yB9JQRKoXyKXSsZspP+joxmGdgEbyyuisCmmy5KXsrBGwWxG+Tp3+kmz6bgMtW7ojBDQ==" length="29988204" />
         </item>
         <item>
             <title>Version 0.1.129</title>

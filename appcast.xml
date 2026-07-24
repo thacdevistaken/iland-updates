@@ -6,6 +6,32 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.128</title>
+            <pubDate>Fri, 24 Jul 2026 01:06:50 +0000</pubDate>
+            <sparkle:version>0.1.128</sparkle:version>
+            <sparkle:shortVersionString>0.1.128</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Shortcut recorder: reliable keyboard focus, records any key or combo you want, re-recording an assigned shortcut works]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.128/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="8WpscplZZw6uAxdN982h6MN9qQgrlC9Td4nisp1uFtFOChSpMpwUFv3dXYkkhJEABL2TAlej5kdz99SbAE1pCQ==" length="29988254" />
+        </item>
+        <item>
+            <title>Version 0.1.128</title>
+            <pubDate>Fri, 24 Jul 2026 00:51:08 +0000</pubDate>
+            <sparkle:version>0.1.128</sparkle:version>
+            <sparkle:shortVersionString>0.1.128</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Shortcut recorder fixes — the Settings window now reliably takes keyboard focus, re-recording an assigned combo works, and bare keys explain they need a modifier]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.128/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="NgRNhg5QcwFSbcxMHTWG0qXRXhDV6VlLLIF1+0FmKUoeiwo7UcnKwZjQM62UUsbWWYum8uCWpekXGGb4J50wAQ==" length="29988361" />
+        </item>
+        <item>
             <title>Version 0.1.127</title>
             <pubDate>Fri, 24 Jul 2026 00:42:06 +0000</pubDate>
             <sparkle:version>0.1.127</sparkle:version>

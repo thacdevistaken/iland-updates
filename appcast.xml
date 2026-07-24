@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.126</title>
+            <pubDate>Fri, 24 Jul 2026 00:37:06 +0000</pubDate>
+            <sparkle:version>0.1.126</sparkle:version>
+            <sparkle:shortVersionString>0.1.126</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[About: the ambient glow keeps the deep-purple art; only the visible icon uses the new logo]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.126/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="7/TsnqXpS7DTReZh+3aVdFOUnM9nqIw6sK2C/wdb3IHT9l7fikNE4tD+abETSVYkUTv+TPOeKfpOy1SI4QBpAg==" length="29977580" />
+        </item>
+        <item>
             <title>Version 0.1.125</title>
             <pubDate>Fri, 24 Jul 2026 00:29:22 +0000</pubDate>
             <sparkle:version>0.1.125</sparkle:version>

@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.125</title>
+            <pubDate>Fri, 24 Jul 2026 00:29:22 +0000</pubDate>
+            <sparkle:version>0.1.125</sparkle:version>
+            <sparkle:shortVersionString>0.1.125</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[About: new CodeM Labs lockup, app icon refresh everywhere]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.125/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="MskqCXgj8HYKk2QQDdRqhMg/zzDEbGLXeTwakOWG/kofdD9lHEHe9BqsZ6k6IifEB73hjZbQxd/j/hS/eHSqDQ==" length="28947678" />
+        </item>
+        <item>
             <title>Version 0.1.124</title>
             <pubDate>Tue, 21 Jul 2026 20:15:56 +0000</pubDate>
             <sparkle:version>0.1.124</sparkle:version>

@@ -10,7 +10,6 @@
             <pubDate>Wed, 29 Jul 2026 18:25:26 +0000</pubDate>
             <sparkle:version>0.1.135</sparkle:version>
             <sparkle:shortVersionString>0.1.135</sparkle:shortVersionString>
-            <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[Fixes high idle CPU with Liquid Glass enabled — the material now renders only while the notch is open (15% CPU to about 2%)]]></description>
             <enclosure

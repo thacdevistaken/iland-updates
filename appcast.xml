@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.135</title>
+            <pubDate>Wed, 29 Jul 2026 18:25:26 +0000</pubDate>
+            <sparkle:version>0.1.135</sparkle:version>
+            <sparkle:shortVersionString>0.1.135</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Fixes high idle CPU with Liquid Glass enabled — the material now renders only while the notch is open (15% CPU to about 2%)]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.135/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="SZAqbILdgOW1azJzJ/1L1Q+vN3q+ExiN3fwY0BUuAP8oe5wJ4RG+nK0/ZWjn3+kalKV+yt7UAVVshSdTH7f0Ag==" length="29993415" />
+        </item>
+        <item>
             <title>Version 0.1.134</title>
             <pubDate>Wed, 29 Jul 2026 17:57:19 +0000</pubDate>
             <sparkle:version>0.1.134</sparkle:version>

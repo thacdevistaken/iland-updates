@@ -6,6 +6,19 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.136</title>
+            <pubDate>Wed, 29 Jul 2026 19:01:33 +0000</pubDate>
+            <sparkle:version>0.1.136</sparkle:version>
+            <sparkle:shortVersionString>0.1.136</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Bluetooth LE accessories now show their battery — a Logitech MX Master and similar BLE mice or keyboards report through a different channel than AirPods do]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.136/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="BND4P48f9aIiiVdnuX1NoRhm1D4bvAQzR9hiWnEdjHXGonc4tthGfV3UPjdfeMZ5uEM4S7yiKCyorfnV4fUrBw==" length="29994940" />
+        </item>
+        <item>
             <title>Version 0.1.135</title>
             <pubDate>Wed, 29 Jul 2026 18:25:26 +0000</pubDate>
             <sparkle:version>0.1.135</sparkle:version>

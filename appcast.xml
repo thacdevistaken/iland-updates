@@ -6,6 +6,32 @@
         <description>Latest iLand releases</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.134</title>
+            <pubDate>Wed, 29 Jul 2026 17:57:19 +0000</pubDate>
+            <sparkle:version>0.1.134</sparkle:version>
+            <sparkle:shortVersionString>0.1.134</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Major performance work — around half the memory, no background polling while the notch is closed, and far fewer CPU wake-ups]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.134/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="PkgNvEZNs21cKt8LP4zfZ6+1bmS/IDrAm9hhnpsbDajYlSo2aN9r32EWyx/aCOksvO1O/Nj6hmpMma3BxfUqAA==" length="29991713" />
+        </item>
+        <item>
+            <title>Version 0.1.133</title>
+            <pubDate>Wed, 29 Jul 2026 17:28:08 +0000</pubDate>
+            <sparkle:version>0.1.133</sparkle:version>
+            <sparkle:shortVersionString>0.1.133</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Lifetime licenses now read Lifetime Activated, and the bug-report / feedback links reach the right inbox]]></description>
+            <enclosure
+                url="https://github.com/thacdevistaken/iland-updates/releases/download/v0.1.133/iLand.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="pDSlX4TP1syMdWlkx+VWdXtVAoy82DnyxfgVP14Ttg3xuqzhmfnSD4F5uPz7O6WBCAZlwxEZodUqDhqnJEA4Bg==" length="29988964" />
+        </item>
+        <item>
             <title>Version 0.1.132</title>
             <pubDate>Wed, 29 Jul 2026 14:51:11 +0000</pubDate>
             <sparkle:version>0.1.132</sparkle:version>

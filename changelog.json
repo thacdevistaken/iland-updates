@@ -2,18 +2,18 @@
   "product": "iLand",
   "releases": [
     {
-      "version": "0.1.112",
-      "date": "2026-07-03",
-      "title": "Capture, edit, and a much lighter iLand",
+      "version": "1.0.0",
+      "date": "2026-07-29",
+      "title": "iLand 1.0",
       "notes": [
-        { "type": "new", "text": "Screenshot markup — after a capture a preview drops out of the notch. Click it to add arrows, boxes or freehand strokes, crop the shot, then copy or save it." },
-        { "type": "new", "text": "Screen recording editor — record the full screen or just an area, then trim the start and end, crop the frame, and copy it as MP4 or save it." },
-        { "type": "new", "text": "Global keyboard shortcuts for Area Screenshot, Screen Recording and Color Picker — assign them in Settings → Shortcuts." },
-        { "type": "new", "text": "Right-click any shot in the Tray history to edit, copy or delete it, with select-all for quick clean-ups." },
-        { "type": "improved", "text": "Big energy win — iLand now uses a small fraction of the CPU it used to while music is playing." },
-        { "type": "improved", "text": "Swipe between the iLand and Tray tabs — they slide across instead of snapping." },
-        { "type": "improved", "text": "Large and XL sizes get proportionally rounder bottom corners, and the Tray cards now line up with the widgets above them." },
-        { "type": "fixed", "text": "The previous-track button now animates in the direction it actually moves." }
+        { "type": "new", "text": "Now playing in the notch — artwork, track details and controls appear the moment something starts, with a live visualizer and scroll-to-change volume." },
+        { "type": "new", "text": "Widgets you choose — battery and weather, calendar, timer, mirror, RAM cleaner, Wi-Fi and speed test, colour picker, translation and favourite apps. Reorder them or switch any off in Settings." },
+        { "type": "new", "text": "File tray — drag files onto the notch to park them, then drag them back out wherever you need them. AirDrop and a file converter sit one tab away." },
+        { "type": "new", "text": "Screenshots and screen recording — capture an area, mark it up with arrows, boxes and freehand strokes, crop it, then copy or save. Recordings can be trimmed, cropped and exported as MP4." },
+        { "type": "new", "text": "Global keyboard shortcuts for screenshots, recording and the colour picker — assign whatever combination you like in Settings → Shortcuts." },
+        { "type": "new", "text": "Bluetooth accessory batteries, including Bluetooth LE mice and keyboards that macOS reports through a different channel than AirPods." },
+        { "type": "improved", "text": "Built for battery life — nothing polls in the background while the notch is closed, and idle CPU sits near zero." },
+        { "type": "improved", "text": "Liquid Glass on macOS 26 in a semi or full variant, alongside size presets and fine-tuning for the notch silhouette." }
       ]
     }
   ]

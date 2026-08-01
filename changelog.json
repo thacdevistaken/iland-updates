@@ -6,13 +6,13 @@
       "date": "2026-07-29",
       "title": "iLand 1.0",
       "notes": [
-        { "type": "new", "text": "Now playing in the notch — artwork, track details and controls appear the moment something starts, with a live visualizer and scroll-to-change volume." },
-        { "type": "new", "text": "Widgets you choose — battery and weather, calendar, timer, mirror, RAM cleaner, Wi-Fi and speed test, colour picker, translation and favourite apps. Reorder them or switch any off in Settings." },
-        { "type": "new", "text": "File tray — drag files onto the notch to park them, then drag them back out wherever you need them. AirDrop and a file converter sit one tab away." },
-        { "type": "new", "text": "Screenshots and screen recording — capture an area, mark it up with arrows, boxes and freehand strokes, crop it, then copy or save. Recordings can be trimmed, cropped and exported as MP4." },
-        { "type": "new", "text": "Global keyboard shortcuts for screenshots, recording and the colour picker — assign whatever combination you like in Settings → Shortcuts." },
+        { "type": "new", "text": "Now playing in the notch. Artwork, track details and controls appear the moment something starts, with a live visualizer and scroll-to-change volume." },
+        { "type": "new", "text": "Widgets you choose: battery and weather, calendar, timer, mirror, RAM cleaner, Wi-Fi and speed test, colour picker, translation and favourite apps. Reorder them or switch any off in Settings." },
+        { "type": "new", "text": "File tray. Drag files onto the notch to park them, then drag them back out wherever you need them. AirDrop and a file converter sit one tab away." },
+        { "type": "new", "text": "Screenshots and screen recording. Capture an area, mark it up with arrows, boxes and freehand strokes, crop it, then copy or save. Recordings can be trimmed, cropped and exported as MP4." },
+        { "type": "new", "text": "Global keyboard shortcuts for screenshots, recording and the colour picker. Assign whatever combination you like in Settings → Shortcuts." },
         { "type": "new", "text": "Bluetooth accessory batteries, including Bluetooth LE mice and keyboards that macOS reports through a different channel than AirPods." },
-        { "type": "improved", "text": "Built for battery life — nothing polls in the background while the notch is closed, and idle CPU sits near zero." },
+        { "type": "improved", "text": "Built for battery life. Nothing polls in the background while the notch is closed, and idle CPU sits near zero." },
         { "type": "improved", "text": "Liquid Glass on macOS 26 in a semi or full variant, alongside size presets and fine-tuning for the notch silhouette." }
       ]
     }

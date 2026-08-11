@@ -10,7 +10,6 @@
             <pubDate>Tue, 11 Aug 2026 17:54:33 +0000</pubDate>
             <sparkle:version>1.1.0</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[Convert now handles documents — PDF, DOCX, RTF, HTML and TXT, in any direction]]></description>
             <enclosure

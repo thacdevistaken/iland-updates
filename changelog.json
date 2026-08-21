@@ -2,18 +2,88 @@
   "product": "iLand",
   "releases": [
     {
+      "version": "1.1.2",
+      "date": "2026-08-21",
+      "title": "See how far a conversion has got",
+      "notes": [
+        {
+          "type": "new",
+          "text": "A real progress ring while a file converts. It fills as the work goes, shows the percentage in the middle, and estimates the time left underneath, so a long video no longer leaves you guessing."
+        },
+        {
+          "type": "new",
+          "text": "A text tool in screenshot markup, and annotations you can select, move and resize after drawing them."
+        },
+        {
+          "type": "improved",
+          "text": "Swipe down to your captures while a conversion is running. Swipe back and the conversion is still going, right where you left it."
+        },
+        {
+          "type": "improved",
+          "text": "Dragging a file onto the notch now tucks the capture history away, so the drop zone and Convert card are never hidden behind it."
+        },
+        {
+          "type": "fixed",
+          "text": "The notch animates open from the very first hover instead of occasionally snapping to full size."
+        }
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "2026-08-11",
+      "title": "Convert documents too",
+      "notes": [
+        {
+          "type": "new",
+          "text": "Drop a PDF, Word file, RTF, HTML or plain text on Convert and turn it into any of the others. Text, headings, bold, colours and links all carry across."
+        },
+        {
+          "type": "new",
+          "text": "Anything the Mac can read becomes a PDF, laid out properly across as many pages as it needs."
+        },
+        {
+          "type": "improved",
+          "text": "A scanned PDF says so rather than handing you an empty file. Tables in a PDF flatten to their contents, since a PDF stores placed text rather than a table."
+        }
+      ]
+    },
+    {
       "version": "1.0.0",
       "date": "2026-07-29",
       "title": "iLand 1.0",
       "notes": [
-        { "type": "new", "text": "Now playing in the notch. Artwork, track details and controls appear the moment something starts, with a live visualizer and scroll-to-change volume." },
-        { "type": "new", "text": "Widgets you choose: battery and weather, calendar, timer, mirror, RAM cleaner, Wi-Fi and speed test, colour picker, translation and favourite apps. Reorder them or switch any off in Settings." },
-        { "type": "new", "text": "File tray. Drag files onto the notch to park them, then drag them back out wherever you need them. AirDrop and a file converter sit one tab away." },
-        { "type": "new", "text": "Screenshots and screen recording. Capture an area, mark it up with arrows, boxes and freehand strokes, crop it, then copy or save. Recordings can be trimmed, cropped and exported as MP4." },
-        { "type": "new", "text": "Global keyboard shortcuts for screenshots, recording and the colour picker. Assign whatever combination you like in Settings → Shortcuts." },
-        { "type": "new", "text": "Bluetooth accessory batteries, including Bluetooth LE mice and keyboards that macOS reports through a different channel than AirPods." },
-        { "type": "improved", "text": "Built for battery life. Nothing polls in the background while the notch is closed, and idle CPU sits near zero." },
-        { "type": "improved", "text": "Liquid Glass on macOS 26 in a semi or full variant, alongside size presets and fine-tuning for the notch silhouette." }
+        {
+          "type": "new",
+          "text": "Now playing in the notch. Artwork, track details and controls appear the moment something starts, with a live visualizer and scroll-to-change volume."
+        },
+        {
+          "type": "new",
+          "text": "Widgets you choose: battery and weather, calendar, timer, mirror, RAM cleaner, Wi-Fi and speed test, colour picker, translation and favourite apps. Reorder them or switch any off in Settings."
+        },
+        {
+          "type": "new",
+          "text": "File tray. Drag files onto the notch to park them, then drag them back out wherever you need them. AirDrop and a file converter sit one tab away."
+        },
+        {
+          "type": "new",
+          "text": "Screenshots and screen recording. Capture an area, mark it up with arrows, boxes and freehand strokes, crop it, then copy or save. Recordings can be trimmed, cropped and exported as MP4."
+        },
+        {
+          "type": "new",
+          "text": "Global keyboard shortcuts for screenshots, recording and the colour picker. Assign whatever combination you like in Settings → Shortcuts."
+        },
+        {
+          "type": "new",
+          "text": "Bluetooth accessory batteries, including Bluetooth LE mice and keyboards that macOS reports through a different channel than AirPods."
+        },
+        {
+          "type": "improved",
+          "text": "Built for battery life. Nothing polls in the background while the notch is closed, and idle CPU sits near zero."
+        },
+        {
+          "type": "improved",
+          "text": "Liquid Glass on macOS 26 in a semi or full variant, alongside size presets and fine-tuning for the notch silhouette."
+        }
       ]
     }
   ]
